@@ -40,7 +40,7 @@ Atualmente, sou Estagiária de Projetos na **MF Digital Law** e atuo como bolsis
 Aqui estão alguns dos projetos em que tenho trabalhado:
 
 - 🌐 **[Site-inspire](https://github.com/raissareisls/Site-inspire):** Desenvolvimento da arquitetura front-end para o site oficial do projeto INSPIRE da UFC, construído com **React, TypeScript e Tailwind CSS**.
-- 💻 **[Desafio-resumo-aulas](https://github.com/raissareisls/Desafio-resumo-aulas):** Aplicação web desenvolvida como parte prática do bootcamp Full-Stack de 192h da Geração Tech (Digital College).
+- 💻 **[Plataforma CRM](https://github.com/raissareisls/URL-DO-SEU-REPOSITORIO):** Desenvolvimento de um sistema de gestão de relacionamento com o cliente (CRM) focado na organização de dados e otimização de processos internos.
 
 ---
 
