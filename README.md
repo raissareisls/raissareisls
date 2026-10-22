@@ -35,20 +35,19 @@ Atualmente, sou Estagiária de Projetos na **MF Digital Law** e atuo como bolsis
 
 ---
 
-## 📊 Atividade & Estatísticas no GitHub
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raissareisls&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E06C75&icon_color=E5C07B&text_color=ABB2BF&border_color=30363D"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=raissareisls&theme=react&background=0D1117&fire=E06C75&ring=E06C75&sideNums=ABB2BF&currStreakNum=ABB2BF&sideLabels=ABB2BF&currStreakLabel=ABB2BF&dates=ABB2BF&border=30363D"/>
-</p>
+Aqui estão alguns dos projetos em que tenho trabalhado:
+
+- 🌐 **[Site-inspire](https://github.com/raissareisls/Site-inspire):** Desenvolvimento da arquitetura front-end para o site oficial do projeto INSPIRE da UFC, construído com **React, TypeScript e Tailwind CSS**.
+- 💻 **[Desafio-resumo-aulas](https://github.com/raissareisls/Desafio-resumo-aulas):** Aplicação web desenvolvida como parte prática do bootcamp Full-Stack de 192h da Geração Tech (Digital College).
 
 ---
 
-## 🌱 O que estou a desenvolver
+## 🌱 O que estou desenvolvendo no momento
 
-- **Projeto INSPIRE (UFC):** A desenvolver o site oficial do projeto, com foco na arquitetura front-end utilizando React, TypeScript e Tailwind CSS.
-- **Desenvolvimento Full-Stack:** Aplicações construídas com base nos conhecimentos do bootcamp de 192h da Geração Tech (Digital College).
-- **Projetos de Dados:** Implementação de análises de dados e automações focadas na otimização de processos.
+- Expansão das minhas competências na construção de modelos de **Ciência de Dados** e **Inteligência Artificial**.
+- Implementação de análises de dados e automações focadas na otimização de processos.
 
 ---
 
