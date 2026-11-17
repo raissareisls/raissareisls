@@ -62,8 +62,8 @@ Desenvolvimento **full-stack** da plataforma oficial do projeto de extensão INS
 
 ## 🌱 O que estou desenvolvendo no momento
 
-- Expansão das minhas competências na construção de modelos de **Ciência de Dados** e **Inteligência Artificial**.
-- Implementação de análises de dados e automações focadas na otimização de processos.
+- 🌱 **Aprofundando conhecimentos no ecossistema Apple:** Focando no desenvolvimento nativo para iOS com **Swift, SwiftUI** e arquitetura de aplicativos (MVVM e consumo assíncrono de APIs).
+- 🤖 **Desenvolvimento de processos auxiliados por IA:** Explorando a integração de Inteligência Artificial (LLMs) para a automação de fluxos de trabalho e criação de produtos de software mais inteligentes.
 
 ---
 
